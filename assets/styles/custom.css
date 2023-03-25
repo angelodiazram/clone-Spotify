@@ -1,0 +1,75 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar .container-fluid {
+    background-color: #000000;
+    padding: 12px;
+    top: 130px;
+}
+
+.navbar .container-fluid #name-logo{
+    color: #fff;
+    font-size: 30;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+    color: #fff;
+    font-weight: bold;
+}
+ #container .btn
+.navbar .navbar-nav .nav-item .nav-link #barra{
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #1ED760;
+}
+
+/* Inicio sercción 1*/
+
+#sec-1{
+    color: #fff;
+    width: auto;
+    height: 370px;
+    background-color: #1D75DE;
+}
+
+#sec-1 #container #btn-1{
+    font-size: 13px;
+    padding: 15px 25px;
+    font-weight: bold;
+    border-radius: 100px;
+    border: 2px solid #000000;
+    background-color: #000000;
+}
+
+#sec-1 #container #btn-2{
+    font-size: 13px;
+    padding: 15px 25px;
+    font-weight: bold;
+    border-radius: 100px;
+    border: 2px solid #fff;
+    background-color: transparent;
+}
+
+#link-p{
+    color: #fff;
+}
+
+#sec-2{
+    min-height: 500px;
+}
+
+#sec-2 .list-group{
+    list-style: none;
+}
